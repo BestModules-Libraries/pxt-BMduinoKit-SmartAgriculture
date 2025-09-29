@@ -1,0 +1,14 @@
+{
+    "name": "BMduinoKit-SmartAgriculture",
+    "version": "1.0.0",
+    "description": "A Microsoft MakeCode package for SmartAgriculture(BMduino Kit)",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "public": true
+}

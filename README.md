@@ -14,5 +14,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-BMduinoKit-SmartAgriculture=https://github.com/BestModules-Libraries/pxt-BMduinoKit-SmartAgriculture
+https://github.com/BestModules-Libraries/pxt-BMduinoKit-SmartAgriculture
 ```

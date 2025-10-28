@@ -1,6 +1,6 @@
 # BMduinoKit-SmartAgriculture
 
-A Microsoft MakeCode package for BestModules module(BMduino Kit)  
+A Microsoft MakeCode package for SmartAgriculture(BMduino Kit)  
 oursteam：https://www.oursteam.com.tw/products.php?subkey=152  
 BestModules：www.bestmodulescorp.com
 
